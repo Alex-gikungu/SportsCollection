@@ -1,0 +1,323 @@
+{
+    "footwear": {
+      "basketball": [
+        {
+          "name": "Air Jordan 1",
+          "description": "Iconic basketball shoe with classic style and great support.",
+          "price": "$120",
+          "image": "https://example.com/air-jordan-1.jpg"
+        },
+        {
+          "name": "Nike LeBron 18",
+          "description": "Designed for power players with excellent cushioning and responsiveness.",
+          "price": "$180",
+          "image": "https://example.com/nike-lebron-18.jpg"
+        },
+        {
+          "name": "Adidas Harden Vol. 5",
+          "description": "Signature shoe of James Harden, offering superb traction and stability.",
+          "price": "$140",
+          "image": "https://example.com/adidas-harden-vol-5.jpg"
+        },
+        {
+          "name": "Under Armour Curry 8",
+          "description": "Inspired by Stephen Curry's precise playing style and lightweight feel.",
+          "price": "$150",
+          "image": "https://example.com/under-armour-curry-8.jpg"
+        },
+        {
+          "name": "Puma Clyde All-Pro",
+          "description": "Modern performance shoe with a classic silhouette and high-quality materials.",
+          "price": "$130",
+          "image": "https://example.com/puma-clyde-all-pro.jpg"
+        }
+      ],
+      "football": [
+        {
+          "name": "Nike Mercurial Vapor 14",
+          "description": "Speed-oriented football cleats for agile players.",
+          "price": "$160",
+          "image": "https://example.com/nike-mercurial-vapor-14.jpg"
+        },
+        {
+          "name": "Adidas Predator Freak.1",
+          "description": "Control-focused boots designed for precision and power.",
+          "price": "$170",
+          "image": "https://example.com/adidas-predator-freak-1.jpg"
+        },
+        {
+          "name": "Puma Future Z 1.2",
+          "description": "Innovative boots with adaptive fit and excellent grip.",
+          "price": "$150",
+          "image": "https://example.com/puma-future-z-1-2.jpg"
+        },
+        {
+          "name": "Under Armour Spotlight Pro 2.0",
+          "description": "Lightweight cleats for enhanced speed and acceleration.",
+          "price": "$140",
+          "image": "https://example.com/under-armour-spotlight-pro-2-0.jpg"
+        },
+        {
+          "name": "Mizuno Morelia Neo III β",
+          "description": "Traditional-style boots with modern performance features.",
+          "price": "$130",
+          "image": "https://example.com/mizuno-morelia-neo-iii-beta.jpg"
+        }
+      ],
+      "tennis": [
+        {
+          "name": "NikeCourt Air Zoom Vapor X",
+          "description": "Responsive tennis shoes offering great stability and comfort.",
+          "price": "$130",
+          "image": "https://example.com/nikecourt-air-zoom-vapor-x.jpg"
+        },
+        {
+          "name": "Adidas Adizero Ubersonic 4",
+          "description": "Lightweight and durable shoes for quick movements on the court.",
+          "price": "$140",
+          "image": "https://example.com/adidas-adizero-ubersonic-4.jpg"
+        },
+        {
+          "name": "Asics Gel-Resolution 8",
+          "description": "Reliable tennis shoes with excellent support and shock absorption.",
+          "price": "$150",
+          "image": "https://example.com/asics-gel-resolution-8.jpg"
+        },
+        {
+          "name": "New Balance Fresh Foam Lav",
+          "description": "Comfortable and cushioned shoes for long matches.",
+          "price": "$120",
+          "image": "https://example.com/new-balance-fresh-foam-lav.jpg"
+        },
+        {
+          "name": "Wilson Rush Pro 3.5",
+          "description": "Durable and agile shoes designed for all court surfaces.",
+          "price": "$110",
+          "image": "https://example.com/wilson-rush-pro-3-5.jpg"
+        }
+      ]
+    },
+    "activewear": {
+      "basketball": [
+        {
+          "name": "Nike Dri-FIT Basketball Shorts",
+          "description": "Moisture-wicking shorts for superior comfort and breathability.",
+          "price": "$40",
+          "image": "https://example.com/nike-dri-fit-basketball-shorts.jpg"
+        },
+        {
+          "name": "Adidas Pro Bounce Tank Top",
+          "description": "Sleeveless tank top with a sporty design and excellent range of motion.",
+          "price": "$30",
+          "image": "https://example.com/adidas-pro-bounce-tank-top.jpg"
+        },
+        {
+          "name": "Under Armour Drive 5 Basketball Socks",
+          "description": "Cushioned socks with arch support for reduced fatigue during games.",
+          "price": "$15",
+          "image": "https://example.com/under-armour-drive-5-basketball-socks.jpg"
+        },
+        {
+          "name": "Puma Hoops Hoodie",
+          "description": "Stylish and comfortable hoodie for pre-game warm-ups and casual wear.",
+          "price": "$50",
+          "image": "https://example.com/puma-hoops-hoodie.jpg"
+        }
+      ],
+      "football": [
+        {
+          "name": "Nike Dri-FIT Football Jersey",
+          "description": "Breathable jersey with moisture-wicking technology for peak performance.",
+          "price": "$45",
+          "image": "https://example.com/nike-dri-fit-football-jersey.jpg"
+        },
+        {
+          "name": "Adidas Tiro 21 Training Pants",
+          "description": "Comfortable and versatile pants for training sessions and workouts.",
+          "price": "$35",
+          "image": "https://example.com/adidas-tiro-21-training-pants.jpg"
+        },
+        {
+          "name": "Under Armour F6 Receiver Gloves",
+          "description": "Durable and grippy gloves for excellent ball control and catching.",
+          "price": "$25",
+          "image": "https://example.com/under-armour-f6-receiver-gloves.jpg"
+        },
+        {
+          "name": "Puma Ultra Football Socks",
+          "description": "High-performance socks with cushioning and arch support.",
+          "price": "$12",
+          "image": "https://example.com/puma-ultra-football-socks.jpg"
+        }
+      ],
+      "tennis": [
+        {
+          "name": "Nike Dri-FIT Tennis Visor",
+          "description": "Visor with sweat-wicking fabric to stay cool and focused on the court.",
+          "price": "$20",
+          "image": "https://example.com/nike-dri-fit-tennis-visor.jpg"
+        },
+        {
+          "name": "Under Armour Tennis Head Tie",
+          "description": "Head tie for a personalized fit and style while playing tennis.",
+          "price": "$15",
+          "image": "https://example.com/under-armour-tennis-head-tie.jpg"
+        },
+        {
+          "name": "Adidas Tennis Cap",
+          "description": "Classic cap with a moisture-absorbing sweatband for comfort.",
+          "price": "$22",
+          "image": "https://example.com/adidas-tennis-cap.jpg"
+        },
+        {
+          "name": "Wilson Pro Staff Tennis Hat",
+          "description": "Hat with a curved brim and adjustable strap for a secure fit.",
+          "price": "$25",
+          "image": "https://example.com/wilson-pro-staff-tennis-hat.jpg"
+        }
+      ]
+    },
+    "headgear": {
+      "basketball": [
+        {
+          "name": "Nike Pro Basketball Headband",
+          "description": "Moisture-wicking headband to keep sweat out of your eyes during intense play.",
+          "price": "$15",
+          "image": "https://example.com/nike-pro-basketball-headband.jpg"
+        },
+        {
+          "name": "Under Armour Basketball Skull Cap",
+          "description": "Skull cap with strategic ventilation for added breathability and comfort.",
+          "price": "$20",
+          "image": "https://example.com/under-armour-basketball-skull-cap.jpg"
+        },
+        {
+          "name": "Adidas Hoops Snapback Cap",
+          "description": "Snapback cap with a basketball-themed design for a stylish look.",
+          "price": "$25",
+          "image": "https://example.com/adidas-hoops-snapback-cap.jpg"
+        },
+        {
+          "name": "Jordan Jumpman Beanie",
+          "description": "Beanie with the iconic Jumpman logo for warmth and style.",
+          "price": "$18",
+          "image": "https://example.com/jordan-jumpman-beanie.jpg"
+        }
+      ],
+      "football": [
+        {
+          "name": "Nike Dri-FIT Skull Cap",
+          "description": "Skull cap with sweat-wicking technology to keep you dry and focused.",
+          "price": "$17",
+          "image": "https://example.com/nike-dri-fit-skull-cap.jpg"
+        },
+        {
+          "name": "Under Armour Football Visor",
+          "description": "Clear visor for added eye protection without obstructing vision.",
+          "price": "$25",
+          "image": "https://example.com/under-armour-football-visor.jpg"
+        },
+        {
+          "name": "Adidas Adizero Football Beanie",
+          "description": "Lightweight beanie for extra warmth during chilly games.",
+          "price": "$20",
+          "image": "https://example.com/adidas-adizero-football-beanie.jpg"
+        },
+        {
+          "name": "Wilson NFL Team Logo Snapback Cap",
+          "description": "Snapback cap featuring your favorite NFL team's logo.",
+          "price": "$30",
+          "image": "https://example.com/wilson-nfl-team-logo-snapback-cap.jpg"
+        }
+      ],
+      "tennis": [
+        {
+          "name": "Nike Dri-FIT Tennis Visor",
+          "description": "Visor with sweat-wicking fabric to stay cool and focused on the court.",
+          "price": "$20",
+          "image": "https://example.com/nike-dri-fit-tennis-visor.jpg"
+        },
+        {
+          "name": "Under Armour Tennis Head Tie",
+          "description": "Head tie for a personalized fit and style while playing tennis.",
+          "price": "$15",
+          "image": "https://example.com/under-armour-tennis-head-tie.jpg"
+        },
+        {
+          "name": "Adidas Tennis Cap",
+          "description": "Classic cap with a moisture-absorbing sweatband for comfort.",
+          "price": "$22",
+          "image": "https://example.com/adidas-tennis-cap.jpg"
+        },
+        {
+          "name": "Wilson Pro Staff Tennis Hat",
+          "description": "Hat with a curved brim and adjustable strap for a secure fit.",
+          "price": "$25",
+          "image": "https://example.com/wilson-pro-staff-tennis-hat.jpg"
+        }
+      ]
+    },
+    "accessories": {
+      "basketball": [
+        {
+          "name": "SKLZ Pro Mini Basketball Hoop",
+          "description": "Indoor basketball hoop set for fun and practice at home or in the office.",
+          "price": "$25",
+          "image": "https://example.com/sklz-pro-mini-basketball-hoop.jpg"
+        },
+        {
+          "name": "McDavid Hex Padded Arm Sleeve",
+          "description": "Arm sleeve with padding for added protection and support during play.",
+          "price": "$20",
+          "image": "https://example.com/mcdavid-hex-padded-arm-sleeve.jpg"
+        },
+        {
+          "name": "Champion Sports Deluxe Ball Bag",
+          "description": "Durable bag to carry and store multiple basketballs for practices and games.",
+          "price": "$40",
+          "image": "https://example.com/champion-sports-deluxe-ball-bag.jpg"
+        }
+      ],
+      "football": [
+        {
+          "name": "SKLZ 6x Agility Hurdles",
+          "description": "Set of agility hurdles for football training and improving footwork.",
+          "price": "$30",
+          "image": "https://example.com/sklz-6x-agility-hurdles.jpg"
+        },
+        {
+          "name": "Champion Sports Football Kicking Tee",
+          "description": "Sturdy kicking tee for perfecting field goals and extra points.",
+          "price": "$8",
+          "image": "https://example.com/champion-sports-football-kicking-tee.jpg"
+        },
+        {
+          "name": "Riddell SpeedFlex Football Helmet",
+          "description": "Advanced football helmet with enhanced safety features.",
+          "price": "$250",
+          "image": "https://example.com/riddell-speedflex-football-helmet.jpg"
+        }
+      ],
+      "tennis": [
+        {
+          "name": "Babolat Pure Strike Tennis Backpack",
+          "description": "Sleek backpack with compartments for racquets and tennis gear.",
+          "price": "$80",
+          "image": "https://example.com/babolat-pure-strike-tennis-backpack.jpg"
+        },
+        {
+          "name": "Tourna Grip Overgrip",
+          "description": "Highly absorbent overgrip for a non-slip feel and comfortable grip.",
+          "price": "$8",
+          "image": "https://example.com/tourna-grip-overgrip.jpg"
+        },
+        {
+          "name": "Gamma Supreme Overgrip",
+          "description": "Durable overgrip with a tacky feel for optimal racquet control.",
+          "price": "$6",
+          "image": "https://example.com/gamma-supreme-overgrip.jpg"
+        }
+      ]
+    }
+  }
+  
