@@ -1,10 +1,9 @@
 import react from 'react'
-
+import NavBar from './NavBar'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-
+  
   return (
     <NavBar/>
   )
