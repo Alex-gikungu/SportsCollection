@@ -8,11 +8,10 @@ The Sport Collection App was developed in collaboration with the following team 
 
 1. Alex Gikungu
 2. Vivian Alouch
-3.Omala-Mohamed Fauzia
-4.Wango Samuel
-5.Wamai Abigail
-6.Lenaiayasa Ephrahim
-
+3. Omala-Mohamed Fauzia
+4. Wango Samuel
+5. Wamai Abigail
+6. Lenaiayasa Ephrahim
 
 ## Features
 
