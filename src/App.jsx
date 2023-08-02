@@ -6,6 +6,8 @@ import Products from "./components/Products";
 import Description from "./components/Description";
 import '@fortawesome/fontawesome-free/css/all.css';
 import Footer from './components/Footer'
+import SignupLoginForm from './components/Login '
+
 
 function App() {
   const [sportsData, setSportsData] = useState([]);
@@ -32,6 +34,8 @@ function App() {
           />
         </Routes>
       </BrowserRouter>
+  <SignupLoginForm/>
+
 <Footer/>
     </div>
   );
