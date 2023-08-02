@@ -1,22 +1,3 @@
-// import React from 'react'
-// import Products from './components/Products'
-// import './App.css'
-
-// function App() {
-  
-
-//   return (
-//     <div>
-//       <h1 className='productss'>PRODUCTS</h1>
-//       <Products/>
-
-// </div>
-    
-//   )
-// }
-
-// export default App
-
 
 import React, { useEffect, useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
