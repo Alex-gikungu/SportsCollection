@@ -1,9 +1,11 @@
 
+
 import React, { useEffect, useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import "./App.css";
 import Products from "./components/Products";
 import Description from "./components/Description";
+import '@fortawesome/fontawesome-free/css/all.css';
+import Footer from './components/Footer'
 
 function App() {
   const [sportsData, setSportsData] = useState([]);
@@ -30,6 +32,7 @@ function App() {
           />
         </Routes>
       </BrowserRouter>
+<Footer/>
     </div>
   );
 }
