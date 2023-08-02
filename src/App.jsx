@@ -1,13 +1,14 @@
 import react from 'react'
 
 import './App.css'
+import SignupLoginForm from './components/Login '
 
 function App() {
-  const [count, setCount] = useState(0)
-
+  
   return (
     <>
 
+<SignupLoginForm/>
     </>
   )
 }
