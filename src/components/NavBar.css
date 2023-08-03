@@ -1,3 +1,4 @@
+/* NavBar.css */
 nav {
   background-color: #F2D6C0;
   padding: 10px;
@@ -17,7 +18,8 @@ li {
   margin-right: 10px;
 }
 
-a {
+a,
+.login-link { 
   text-decoration: none;
   color: #fff;
   padding: 5px;
@@ -25,7 +27,8 @@ a {
   background-color: #3D5A56;
 }
 
-a:hover {
+a:hover,
+.login-link:hover { 
   background-color: #3D5A56;
 }
 
