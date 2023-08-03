@@ -1,13 +1,15 @@
+// NavBar.js
 import React from "react";
-import './NavBar.css'
+import { Link } from "react-router-dom";
+import './NavBar.css';
 
 const NavBar = () => {
   return (
     <nav>
       <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/products">Products</a></li>
-        <li><button onClick={() => handleAddToCart()}>Add to Cart</button></li>
+        <li><Link to="/home">Home</Link></li>
+        <li><Link to="/products">Products</Link></li>
+        <li><Link to="/wishlist">Wishlist</Link></li>
       </ul>
     </nav>
   );
